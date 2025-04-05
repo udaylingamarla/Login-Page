@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+label{
+    text-align: center;
+    
+}
+input{
+    text-align: center;
+    color: tomato;
+    
+}
+form{
+    text-align: center;
+    
+    padding: 8px;
+    margin: 2px;
+}
+body{
+    background-color: blueviolet;
+}
